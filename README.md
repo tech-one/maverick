@@ -1,2 +1,2 @@
 # maverick
-My Repository
+Learning Repository
