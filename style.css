@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans&display=swap');
 
+=======
+>>>>>>> 7e78e79e3ea299cd6916285cab3f9f53dda31515
 *
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
 }
 
 body
@@ -138,3 +142,6 @@ body
 
 
 
+=======
+}
+>>>>>>> 7e78e79e3ea299cd6916285cab3f9f53dda31515
